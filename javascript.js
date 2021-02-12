@@ -5,5 +5,5 @@ function Area () {
     var x =h*b/2;
     document.querySelector(".demo").innerHTML=x;
     console.log(b,h)
-    }
+}
     
