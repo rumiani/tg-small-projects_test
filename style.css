@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 90%;
+margin:50px auto;
+
+}
+#h,#b{
+    height: 30px;
+        width: 30%;
+        background-color: rgb(214, 226, 43);
+        border-radius: 5px;
+    }
+    button{
+        background-color: brown;
+        height: 50px;
+        border-radius: 5px;
+
+    }  
+    .demo{
+        border: 1px solid black;
+        height: 20px;
+        width: 30%;
+        background-color: burlywood;
+        border-radius: 5px;
+
+    }
