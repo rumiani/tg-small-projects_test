@@ -4,6 +4,6 @@ function Area () {
     var h=document.getElementById("h").value;
     var x =h*b/2;
     document.querySelector(".demo").innerHTML=x;
-    console.log(b,h)
+    console.log(b,h);
 }
     
