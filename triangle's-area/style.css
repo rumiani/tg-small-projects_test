@@ -1,0 +1,56 @@
+.header{
+    background-color: brown;
+    padding: 10px;
+ }
+
+.menu{
+    background-color: rgb(86, 99, 38);
+    padding: 10px;
+ 
+}
+
+.menu-btn{
+    background-color: cyan;
+    padding: 10px;
+    cursor: pointer;
+    margin: 15px;
+}
+.menu-btn:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+
+
+
+
+body{
+    background-color: aqua;
+    margin: -8px;
+
+}
+.container{
+    width: 90%;
+margin:-8px 10%;
+
+}
+#h,#b{
+    height: 30px;
+        width: 30%;
+        background-color: rgb(214, 226, 43);
+        border-radius: 5px;
+    }
+    button{
+        background-color: brown;
+        height: 50px;
+        border-radius: 5px;
+
+    }  
+    .demo{
+        border: 1px solid black;
+        height: 20px;
+        width: 30%;
+        background-color: burlywood;
+        border-radius: 5px;
+
+    }
