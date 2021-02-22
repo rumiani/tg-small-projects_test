@@ -2,6 +2,12 @@ body{
     background-color: rgb(169, 131, 204);
     margin: -8px;
 }
+<<<<<<< HEAD
+=======
+.container{
+    width: 90%;
+margin:50px 10%;
+>>>>>>> 6ffea7db080ffc58e242d83efe05a9acba6a6fa8
 
 /* header */
 .container h1{
@@ -40,4 +46,8 @@ padding: 10px;
     cursor: pointer;
     margin: 15px;
 
+<<<<<<< HEAD
 }
+=======
+    }
+>>>>>>> 6ffea7db080ffc58e242d83efe05a9acba6a6fa8
