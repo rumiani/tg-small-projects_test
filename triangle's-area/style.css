@@ -1,56 +1,53 @@
-.header{
+body{
+    background-color: rgb(169, 131, 204);
+    margin: -8px;
+}
+
+/* header */
+.container h1{
     background-color: brown;
-    padding: 10px;
+padding: 10px;
+margin: auto;
  }
 
 .menu{
     background-color: rgb(86, 99, 38);
-    padding: 10px;
- 
 }
 
-.menu-btn{
+.menu-btn,button{
     background-color: cyan;
     padding: 10px;
     cursor: pointer;
     margin: 15px;
+    border-radius: 5px;
 }
-.menu-btn:hover {
+.menu-btn:hover ,button:hover{
     background-color: darkblue;
     color: white;
 }
 
+/* End header */
 
 
 
 
-body{
-    background-color: aqua;
-    margin: -8px;
-
-}
-.container{
+.triangle{
     width: 90%;
 margin:-8px 10%;
 
 }
-#h,#b{
+.height,.base{
     height: 30px;
         width: 30%;
         background-color: rgb(214, 226, 43);
         border-radius: 5px;
     }
-    button{
-        background-color: brown;
-        height: 50px;
-        border-radius: 5px;
-
-    }  
+ 
     .demo{
         border: 1px solid black;
         height: 20px;
         width: 30%;
-        background-color: burlywood;
+        background-color: rgb(250, 121, 0);
         border-radius: 5px;
 
     }

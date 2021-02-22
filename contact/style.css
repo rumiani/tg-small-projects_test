@@ -1,27 +1,40 @@
 body{
-    background-color: blueviolet;
-    text-align: center;
-    padding: auto;
+    background-color: rgb(169, 131, 204);
     margin: -8px;
 }
 
-.header{
+/* header */
+.container h1{
     background-color: brown;
-    padding: 10px;
-}
+padding: 10px;
+margin: auto;
+ }
 
 .menu{
     background-color: rgb(86, 99, 38);
-    padding: 10px;
 }
 
-.menu-btn{
+.menu-btn,button{
     background-color: cyan;
     padding: 10px;
     cursor: pointer;
     margin: 15px;
+    border-radius: 5px;
 }
-.menu-btn:hover {
+.menu-btn:hover ,button:hover{
     background-color: darkblue;
     color: white;
+}
+
+/* End header */
+
+
+
+
+.contact{
+    margin: 20px;
+    text-align: center;
+    border: 1px solid black;
+    width: 90%;
+
 }
