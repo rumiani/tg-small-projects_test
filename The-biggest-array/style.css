@@ -28,17 +28,24 @@ margin: auto;
 
 /* End header */
 
-.main{
-    background-color: rgb(190, 34, 190);
-    height: 400px;
-    width: 200px;
-    margin: 10px 20px;
+
+.thebiggestarry{
+    margin: 20px;
 }
 
-.main-btn{
-background-color: yellow;
-padding: 10px;
-cursor: pointer;
-margin: 15px;
-width: 150px;
-   }
+.addanumber ,.enterednumber{
+width: auto;
+height: 30px;
+} 
+.demonumbers,.resultnumdemo{
+    background-color:rgb(205, 190, 238);
+    height: 30px;
+    border-radius: 10px;
+    /* padding: 5px; */
+    text-align:left;
+    padding: 10px;
+    overflow: auto;
+    width: 30%;
+
+
+}

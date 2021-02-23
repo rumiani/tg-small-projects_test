@@ -27,13 +27,23 @@
     </div>
 
     <div class="thebiggestarry">
-
-        <p>Please enter and array</p>
-        <input type="number">
-        <div class="yourinput"></div>
-        
-        
+        <div class="triangle">
+         <p>Please enter some numbers and press enter for each number</p>
+         <input type="number" class="addanumber" value=""></input>
+         <button class="addanumberbtn" onclick="addanumber()">Add the number</button>
+         <div class="demonumbers" value="0" readonly></div> 
+         <p>Please enter a number </p>
+            <input class="enterednumber" type="number" value="">
+            <button onclick="resultnumber()">See the result</button>
+             <div  class="resultnumdemo" value="0" readonly></div>  
+        </div>
         
         </div>  
+
+
+        
+
+   <script src="app.js"></script>
+     
 </body>
 </html>

@@ -29,6 +29,23 @@ margin: auto;
 /* End header */
 
 
-.thebiggestarry{
+
+
+.removechar{
     margin: 20px;
+    text-align: center;
+     width: 90%;
+
 }
+
+.resultnumdemo{
+    border: 1px solid black;
+    height: 20px;
+    width: 30%;
+    background-color: rgb(250, 121, 0);
+    border-radius: 5px;
+    margin: auto;
+}
+
+
+

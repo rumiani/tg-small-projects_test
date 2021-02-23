@@ -6,7 +6,7 @@ body{
 /* header */
 .container h1{
     background-color: brown;
-padding: 10px;
+padding: 20px;
 margin: auto;
  }
 
@@ -27,3 +27,7 @@ margin: auto;
 }
 
 /* End header */
+
+.about{
+    margin: 20px;
+}
