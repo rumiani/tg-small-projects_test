@@ -1,1 +1,1 @@
-This is a small project which colculates triangel's area for you.
+It's going to be my chat app with vite or next
